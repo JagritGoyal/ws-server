@@ -1,0 +1,3 @@
+[build.environment]
+  HOST = "localhost"
+  PORT = "8000"
